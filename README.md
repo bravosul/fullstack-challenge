@@ -4,7 +4,7 @@
   Full Stack Challenge!
 </h1>
 
-A aplicação consiste em um *"sistema"* para listar dados de um determinado **CEP** e que terá como base este [layout](https://www.figma.com/file/lpNy2FDAILuxhwwPn4Vz0H/Front-end-Challenge-Bravosul?node-id=0%3A1);
+A aplicação consiste em um *"sistema"* para listar dados de um determinado **CEP** e que terá como base este [layout](https://www.figma.com/file/VqwjflsvfbxSs3qQsXwBxK/Bravosul-Challenge?node-id=802%3A19);
 
 
 A ideia de estrutura da aplicação é utilizando o seguinte formato:
@@ -29,7 +29,7 @@ Criar um usuário e logar no sistema, após logado, consultar dados de um determ
 
 Para isso, serão necessários:
 
-* Front-end com base no [layout](https://www.figma.com/file/lpNy2FDAILuxhwwPn4Vz0H/Front-end-Challenge-Bravosul?node-id=0%3A1).
+* Front-end com base no [layout](https://www.figma.com/file/VqwjflsvfbxSs3qQsXwBxK/Bravosul-Challenge?node-id=802%3A19).
 * Back-end para fazer a parte de Cadastro/Login;
 * Integração com API do [BrasilAPI](https://brasilapi.com.br/) para listagem de dados do CEP.
 
