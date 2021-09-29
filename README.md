@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img alt="Bravosul" src="https://i.ibb.co/2nRKbHt/Logo.png" height="60px" />
+  <img alt="Bravosul" src="https://i.ibb.co/2nRKbHt/Logo.png" height="40px" />
   <br>
-  Welcome to Full Stack Challenge!
+  Full Stack Challenge!
 </h1>
 
 A aplicação consiste em um *"sistema"* para listar dados de um determinado **CEP** e que terá como base este [layout](https://www.figma.com/file/lpNy2FDAILuxhwwPn4Vz0H/Front-end-Challenge-Bravosul?node-id=0%3A1);
@@ -14,10 +14,13 @@ A ideia de estrutura da aplicação é utilizando o seguinte formato:
 
 > Qualquer funcionalidade extra é bem-vinda ao teste, fique a vontade para propor uma melhoria.
 
-Pontos que serão avaliados:
+
+### Pontos que serão avaliados:
 * Qualidade e Legibilidade do código;
 * Criatividade;
 * Modularidade;
+* Entendimento do Problema;
+* Proposta de Soluçao;
 
 
 # :bookmark: Objetivos
@@ -74,4 +77,4 @@ Response do Endpoint
 ```
 
 ### :pushpin: Observações
-> Qualquer dúvida que tiver entre em contato, **Boa Sorte** 🍀!
+> Qualquer dúvida que tiver entre em contato, **Boa Sorte!** 🍀
